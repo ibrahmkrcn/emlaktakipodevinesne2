@@ -1,0 +1,426 @@
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.exe
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.deps.json
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.runtimeconfig.json
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.AssemblyReference.cache
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmListing.resources
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.FrmMain.resources
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmProperties.resources
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmPropertyOwner.resources
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.GenerateResource.cache
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfoInputs.cache
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfo.cs
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CoreCompileInputs.cache
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CopyComplete
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\refint\EmlakTakip.dll
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.genruntimeconfig.cache
+C:\Users\TBMYO\source\repos\EmlakTakip\EmlakTakip\obj\Debug\net7.0-windows\ref\EmlakTakip.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.exe
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.deps.json
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.runtimeconfig.json
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.AssemblyReference.cache
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmListing.resources
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.FrmMain.resources
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmProperties.resources
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmPropertyOwner.resources
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.GenerateResource.cache
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfoInputs.cache
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfo.cs
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CoreCompileInputs.cache
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CopyComplete
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\refint\EmlakTakip.dll
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.genruntimeconfig.cache
+C:\Users\karac\Desktop\iboş (3)\EmlakTakip\obj\Debug\net7.0-windows\ref\EmlakTakip.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.exe
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.deps.json
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.runtimeconfig.json
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.AssemblyReference.cache
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmListing.resources
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.FrmMain.resources
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmProperties.resources
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmPropertyOwner.resources
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.GenerateResource.cache
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfoInputs.cache
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfo.cs
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CoreCompileInputs.cache
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CopyComplete
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\refint\EmlakTakip.dll
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.genruntimeconfig.cache
+C:\Users\TBMYO\Desktop\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\ref\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.exe
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.deps.json
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.runtimeconfig.json
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.AssemblyReference.cache
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmListing.resources
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.FrmMain.resources
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmProperties.resources
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmPropertyOwner.resources
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.GenerateResource.cache
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfoInputs.cache
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfo.cs
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CoreCompileInputs.cache
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CopyComplete
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\refint\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.genruntimeconfig.cache
+C:\Users\karac\Desktop\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\ref\EmlakTakip.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.exe
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.deps.json
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.runtimeconfig.json
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.AssemblyReference.cache
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmListing.resources
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.FrmMain.resources
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmProperties.resources
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmPropertyOwner.resources
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.GenerateResource.cache
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfoInputs.cache
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfo.cs
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CoreCompileInputs.cache
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CopyComplete
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\refint\EmlakTakip.dll
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.genruntimeconfig.cache
+C:\Users\erenc\OneDrive\Masaüstü\ibonesnetam\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\ref\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.exe
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.deps.json
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.runtimeconfig.json
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.AssemblyReference.cache
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmListing.resources
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.FrmMain.resources
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmProperties.resources
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.Forms.FrmPropertyOwner.resources
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.GenerateResource.cache
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfoInputs.cache
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.AssemblyInfo.cs
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CoreCompileInputs.cache
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.csproj.CopyComplete
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\refint\EmlakTakip.dll
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.pdb
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\EmlakTakip.genruntimeconfig.cache
+C:\Users\karac\Desktop\ibonesnetam2\ibonesnep\EmlakTakip\obj\Debug\net7.0-windows\ref\EmlakTakip.dll
